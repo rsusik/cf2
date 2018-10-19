@@ -20,6 +20,19 @@ This source code was written for research purpose and has a minimal error checki
 The code may be not be very readable and comments may not be adequate.
 There is no warranty, your use of this code is at your own risk.
 
+## Citing
+```
+@incollection {SG16,
+  author    = {R. Susik and {Sz.} Grabowski},
+  title     = {Engineering the Counting Filter for String Matching Algorithms},
+  booktitle = {Algorithms, Networking and Sensing for Data Processing, Mobile Computing and Applications},
+  publisher = {\L{}\'od\'z University of Technology Press},
+  year      = {2016},
+  pages     = {125--140},
+  isbn      = {978-83-7283-7},
+}
+```
+
 ## Requirements
 
 * C++ Compiler - MS Visual Studio
