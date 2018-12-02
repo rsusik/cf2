@@ -21,6 +21,7 @@ There is no warranty, your use of this code is at your own risk.
 
 * C++ Compiler - MS Visual Studio
 * CPU with SSE instructions support
+* Python (for testing)
 
 ## Compilation
 
