@@ -21,7 +21,7 @@ There is no warranty, your use of this code is at your own risk.
 
 * C++ Compiler - MS Visual Studio
 * CPU with SSE instructions support
-* Python (for testing)
+* Python (for [testing](#testing))
 
 ## Compilation
 
@@ -59,6 +59,8 @@ cf2_skip_k1.exe "D:/patterns.r10/patterns.dna.200MB.32.bin" 8 "D:/sets/dna.200MB
 
 The files with patterns has all the patterns written one by one with no separator.
 Algorithm reads m fist bytes as the first pattern, then next m bytes as the second and so on.
+
+## Testing
 
 **For testing purpose test_cf_win.py can be used.**
 
