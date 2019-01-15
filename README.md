@@ -66,7 +66,7 @@ Algorithm reads m fist bytes as the first pattern, then next m bytes as the seco
 
 Example:
 ```shell
-python test_cf_win.py cf2_k2.exe,cf2_simd_k2.exe dna.200MB 10 8,12,16,24,32,64 >> results.txt
+python test_cf_win.py cf2_k2.exe,cf2_simd_k2.exe dna.200MB 10 8,12,16,24,32,64 
 ```
 
 *Please replace the paths in the test_cf_win.py*.
