@@ -2,6 +2,9 @@
 
 ## About
 All CF2 variants were designed for research purpose [SG16]. 
+
+Paper is available at [ResearchGate](https://www.researchgate.net/publication/339727109_Engineering_the_Counting_Filter_for_string_matching_algorithms)
+
 There are a couple of variants of the solution:
 * cf_gfg - applied only for the matching with translocations and inversions problem [GFG11],
 * cf1 - counting filter, a standard implementation [JTU96, N97],
